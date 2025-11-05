@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Paste Typer",
+    "version": "1.0",
+    "description": "貼り付けた文字列を1文字ずつタイピングして入力します。",
+    "permissions": [],
+    "host_permissions": ["<all_urls>"],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["contentScript.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
+  
