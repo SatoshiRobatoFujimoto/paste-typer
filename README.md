@@ -10,3 +10,4 @@
 ## 動作確認済み
 
 - MacBook Air M1, 2020, Chrome バージョン 141.0.7390.108（Official Build） （arm64）
+- EVO-X2, Chrome バージョン 142.0.7444.60（Official Build） （64 ビット）
