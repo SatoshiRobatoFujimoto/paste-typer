@@ -1,5 +1,15 @@
 # paste-typer
 
+## フォルダ構成
+
+```
+paste-typer/
+  README.md
+  paste-typer/
+    manifest.json
+    contentScript.js
+```
+
 ## 使い方
 
 1. Chrome を開き chrome://extensions/ にアクセス。
@@ -10,3 +20,4 @@
 
 - MacBook Air M1, 2020, Chrome バージョン 141.0.7390.108（Official Build） （arm64）
 - EVO-X2, Chrome バージョン 142.0.7444.60（Official Build） （64 ビット）
+
